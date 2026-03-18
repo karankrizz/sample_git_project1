@@ -11,3 +11,5 @@
 - DONT KNOW
   - know
 its me
+- know
+- idk
