@@ -9,4 +9,5 @@
 ## BACKEND
 - NODEJS
 - DONT KNOW
-  - know
+- know
+- idk
