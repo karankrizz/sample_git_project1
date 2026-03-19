@@ -1,0 +1,15 @@
+# FULLSTOCK DEVELOPMENT 
+---
+## FRONTEND
+- HTML
+- CSS
+- JAVASCRIPT
+## DATABASE
+- PREFERRED LANGUAGES
+## BACKEND
+- NODEJS
+- DONT KNOW
+  - know
+its me
+- know
+- idk
